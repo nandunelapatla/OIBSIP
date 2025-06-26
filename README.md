@@ -45,7 +45,7 @@ calculator-project/
 
 ## 🙌 Author
 
-Developed by [Your Name](https://github.com/your-username)
+Developed by NANDA KISHOR REDDY NELAPATLA (https://github.com/your-username)
 
 ---
 
